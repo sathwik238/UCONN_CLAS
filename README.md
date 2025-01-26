@@ -7,12 +7,6 @@ This project focuses on clustering data into 3 or 4 groups based on covariates a
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)
 - [Project Workflow](#project-workflow)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contact](#contact)
-
 ---
 
 ## Dataset Overview
@@ -48,9 +42,3 @@ This project focuses on clustering data into 3 or 4 groups based on covariates a
    - Performance is evaluated using metrics like R² and Mean Squared Error (MSE).
 
 ---
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
