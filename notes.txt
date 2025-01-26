@@ -1,0 +1,20 @@
+they are looking for insights from a data source with 40 records
+
+
+Data comes from college and is completely masked and is confidential
+
+
+
+y is the outcome variavle and is poorly described(can be ignored)
+
+covariates:
+X1, X2, X3 measure similar things
+Z1, Z2 measure similar thigns
+A measure one aspect
+B measure an aspect(not same as A)
+
+we can ignore rows where y==0, but its experimental,
+
+we need to cluster ther data into 3 or 4 grouos and the relate them to the Y.
+
+and create a function to predict y_hay, to better predict y(because currently y is poorly described)
